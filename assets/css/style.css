@@ -5913,3 +5913,14 @@ del {
 .switch-wrap {
   margin-bottom: 10px;
 }
+
+.full-width-image {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: cover;
+}
+.section-padding {
+  padding: 0; /* optional, remove extra white space */
+}
+
