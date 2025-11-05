@@ -2055,7 +2055,7 @@ hr {
   z-index: 1;
 }
 .header-area .main-header .main-menu ul li a {
-  color: #fff;
+  color: #494065;
   font-weight: 300;
   padding: 39px 25px;
   display: block;
@@ -2121,7 +2121,7 @@ hr {
   z-index: 9;
 }
 .header-sticky.sticky-bar {
-  background: #000;
+  background:#494065;
 }
 .header-sticky.sticky-bar.sticky .main-menu ul li a {
   padding: 20px 20px !important;
@@ -2220,7 +2220,7 @@ hr {
 }
 .slider-area {
   margin-top: -1px;
-  background-image: url(../img/hero/hero_image_final.png);
+  background-image: url(../img/hero/grey_hero.png);
   background-repeat: no-repeat;
   background-position: center -100px;
   background-size: cover;
@@ -2282,7 +2282,7 @@ hr {
   font-size: 70px;
   font-weight: 700;
   margin-bottom: 14px;
-  color: #fff;
+  color: #494065;
   line-height: 1.2;
   margin-bottom: 40px;
   text-transform: uppercase;
