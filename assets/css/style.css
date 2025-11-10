@@ -2055,7 +2055,7 @@ hr {
   z-index: 1;
 }
 .header-area .main-header .main-menu ul li a {
-  color: #494065;
+  color: #ff1313;
   font-weight: 300;
   padding: 39px 25px;
   display: block;
@@ -2122,9 +2122,18 @@ hr {
 }
 .header-sticky.sticky-bar {
   background:#494065;
+  
 }
+
+.header-sticky.header-area .main-header .main-menu ul li a
+
+ {
+  color: white !important;;
+ }
+
 .header-sticky.sticky-bar.sticky .main-menu ul li a {
   padding: 20px 20px !important;
+  color:white;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .header-sticky.sticky-bar.sticky {
